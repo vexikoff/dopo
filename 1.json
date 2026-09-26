@@ -1,5 +1,5 @@
 {
-    "Undetected":"DeepSeek 4.1":"https://github.com/vexikoff/dopo/blob/main/DOPO%20DS%204.1.txt",
-    "Undetected":"Qwen 3.7 Plus":"https://github.com/vexikoff/dopo/blob/main/Dopo.qwen.3.7.plus.txt",
-    "Detected":"Kimi K3":"https://github.com/"
+    "DeepSeek 4.1":"Undetected","https://github.com/vexikoff/dopo/blob/main/DOPO%20DS%204.1.txt",
+    "Qwen 3.7 Plus":"Undetected","https://github.com/vexikoff/dopo/blob/main/Dopo.qwen.3.7.plus.txt",
+    "Kimi K3":"Detected","https://github.com/"
 }
